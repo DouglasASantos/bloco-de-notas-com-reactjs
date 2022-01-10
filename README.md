@@ -1,6 +1,7 @@
 # Bloco de notas usando Reactjs
 
-Projeto simulando uma página com dicas de receitas naturais.
+Projeto consiste em um bloco de notas, onde o usuario tem a opção de criar categorias.
+
 
 ![image](img.PNG "web")
 
@@ -34,8 +35,7 @@ npm start
 
 ## Motivação
 
-Projeto com fins de estudo, utilizando o framework React. O projeto consiste em um bloco de notas, onde o usuario tem a opção de criar categorias.
-
+Projeto com fins de estudo, utilizando o framework React. 
 
 ## Tecnologias Utilizadas
 
